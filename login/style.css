@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Content{
+    width: 50%;
+    height: 100%;
+    padding: 15px;
+    background-color:#DCBFFF; 
+    box-shadow: 10px 10px 5px rgb(9, 10, 10);
+    
+  }
+  .hidden {
+    display: none;
+  }

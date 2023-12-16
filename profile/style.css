@@ -1,0 +1,19 @@
+.user{
+    
+    width:25rem;
+    height: 5rem;
+    transform: translate(10rem,.5rem);
+}
+
+#name{
+    transform: translate(8rem,-3.5rem);
+}
+.bookingDate{
+    /* border: solid 2px black; */
+    height:5rem;
+    width:39rem;
+}
+#date{
+    transform: translate(26.5rem,-3rem);
+   
+}
